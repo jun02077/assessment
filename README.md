@@ -6,6 +6,9 @@
 ```txt
 https://jun02077.github.io/assessment/assessment.html
 ```
+スマホ用QRコード<br>
+![image](https://github.com/user-attachments/assets/0cc4baa5-14ec-4283-86d1-3fc733343338)
+
 
 ## 2. 名前を入力
 ![image](https://github.com/user-attachments/assets/3544bed5-d517-4315-bbe7-5c5e455d6cf0)<br>
